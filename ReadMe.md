@@ -33,9 +33,25 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zDiegoz&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zDiegoz&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zDiegoz&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <img
+    align="left"
+    alt="Github Stats"
+    height="200"
+    style="padding right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=zDiegoz&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
+    />
+
+  <img
+    align="left"
+    alt="Github Stats"
+    height="200"
+    style="padding right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zDiegoz&theme=dracula"
+    />
+</p>
+
+<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
