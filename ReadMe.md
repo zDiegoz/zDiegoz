@@ -3,8 +3,9 @@
 🚀 **Junior Front-end Developer**  
 🇧🇷 Brazil
 
-SYSTEMS ANALYSIS AND DEVELOPMENT STUDENT, SEARCHING FOR SUCCESS THROUGH MY EFFORT IN THIS TECHNOLOGICAL WORLD.
-
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF0000&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yhTpG6KJ) 
@@ -12,12 +13,20 @@ SYSTEMS ANALYSIS AND DEVELOPMENT STUDENT, SEARCHING FOR SUCCESS THROUGH MY EFFOR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegowilliam096/) 
 
 # 💻 Tech Stack:
+
+### Frontend
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+
+### Backend
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zDiegoz&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
