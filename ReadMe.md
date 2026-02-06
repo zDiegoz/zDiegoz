@@ -32,6 +32,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
+
 # 📊 GitHub Stats:
 <p>
   <img
@@ -58,12 +59,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zDiegoz&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=zDiegoz&icon=3&color=4)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Paypal.Me/diegowilliam/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ) 
+## 💰 You can help me by Donating
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://wise.com/pay/me/diegog4334)
 
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
